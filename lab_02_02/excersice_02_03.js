@@ -1,4 +1,4 @@
-// 4) Write a code that multiplies two matrices together. Dimension validation required.
+// 3) Write a code that multiplies two matrices together. Dimension validation required.
 
 "use strict";
 

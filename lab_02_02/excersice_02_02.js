@@ -1,4 +1,4 @@
-// 3) Given two strings, write a program that efficiently finds the longest common subsequence (substring).
+// 2) Given two strings, write a program that efficiently finds the longest common subsequence (substring).
 // 'karol rolki'
 
 "use strict";
