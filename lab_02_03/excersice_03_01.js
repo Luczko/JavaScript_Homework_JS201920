@@ -43,7 +43,7 @@ class PositionChecker {
 
 class NumberChecker {
   constructor() {
-    this.position = [1, 1];
+    this.position = ["1", "1"];
     this.num = new PositionChecker(
       arr,
       this.position[0],
